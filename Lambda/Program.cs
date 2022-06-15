@@ -32,3 +32,4 @@ foreach (var item in LP)
     Console.WriteLine($"{item.Id}, {item.FirstName}");
 }
 
+Console.WriteLine("hey");
